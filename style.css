@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: darkgrey;
+  color: #fffa;
+}
+
+.container {
+  width: 100%;
+  height: 80%;
+  background-color: grey;
+}
+
+
+  
